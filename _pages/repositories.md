@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Open Source
-description: Recentemente tenho trabalhado principalmente no "offline-chess-puzzles", no passado colaborei com o projeto FPChess, parte do Lazarus Code and Component Repository (CCR) e com o projeto UltraStar Deluxe, principalmente atualizando os bindings para o FFMpeg.
+description: Recentemente tenho trabalhado principalmente no 'Offline Chess Puzzles', no passado colaborei com o projeto FPChess, parte do Lazarus Code and Component Repository (CCR) e com o projeto UltraStar Deluxe, principalmente atualizando os bindings para o FFMpeg.
 nav: true
 nav_order: 4
 ---
