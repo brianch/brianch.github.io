@@ -14,7 +14,7 @@ images:
 
 {% tab artes paisagens %}
 
-# Paisagens urbanas (ou nem tão urbanas)
+# Paisagens urbanas
 
 
 <div class="row mt-3">
@@ -60,10 +60,10 @@ images:
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/filtness.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/arte/retratos/filtness.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/zago-Gb.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/arte/retratos/zago-Gb.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="row mt-3">
