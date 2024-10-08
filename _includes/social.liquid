@@ -49,6 +49,15 @@
 {% if site.mastodon_username %}
   <a rel="me" href="https://{{ site.mastodon_username  }}" title="Mastodon"><i class="fa-brands fa-mastodon"></i></a>
 {% endif %}
+
+{% if site.pixelfed_username %}
+  <a rel="me" href="https://{{ site.pixelfed_username  }}" title="Pixelfed" class="fa-brands pixelfed">
+    <svg  height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+      <path d="M 30,60 C 13.4316,60 0,46.5684 0,30 0,13.4316 13.4316,0 30,0 46.5684,0 60,13.4316 60,30 60,46.5684 46.5684,60 30,60 Z M 27.618,36.5496 h 5.5032 c 5.184,0 9.3876,-4.092 9.3876,-9.138 0,-5.0472 -4.2024,-9.1392 -9.3876,-9.1392 h -7.9428 c -2.9904,0 -5.4156,2.3604 -5.4156,5.2728 v 20.52 z" fill-rule="evenodd" />
+    </svg>
+  </a>
+{% endif %}
+
 {% if site.medium_username %}
   <a href="https://medium.com/@{{ site.medium_username }}" title="Medium"><i class="fa-brands fa-medium"></i></a>
 {% endif %}

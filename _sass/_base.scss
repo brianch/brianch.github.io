@@ -1093,6 +1093,15 @@ nav[data-toggle="toc"] {
   width: 100%;
 }
 
+.pixelfed {
+  vertical-align:baseline;
+  fill: var(--global-text-color); /*E8E8E8;*/
+}
+
+.pixelfed:hover {
+  fill: var(--global-theme-color);
+}
+
 swiper-container {
   --swiper-navigation-color: var(--global-theme-color);
   --swiper-pagination-color: var(--global-theme-color);
