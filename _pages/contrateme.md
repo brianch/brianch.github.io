@@ -102,17 +102,6 @@ Caso tenha algum projeto de software e precise de um desenvolvedor freelancer, f
 
 <br>
 
-## Sites simples pessoais e de portfólio
-
-Durante minha graduação em artes criei e fiz a manutenção do site do projeto [Ocupações Sonoras](https://ocupacoessonoras.wordpress.com/) (no WordPress) e do programa [Rede Colaborativa Unespiano](https://sites.google.com/unesp.br/redeunespiano/home) (no google sites).
-
-Estou disponível caso você precise de um site pessoal ou de apresentação de algum projeto como esses dois (ou como esse que você está lendo agora), ou de ajuda para o desenvolvimento ou manutenção de um existente.
-
-{% include figure.liquid loading="eager" path="assets/img/dev/ocupacoes.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Site do projeto Ocupações Sonoras" %}
-
-{% include figure.liquid loading="eager" path="assets/img/dev/unespiano.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Site do programa Rede Colaborativa Unespiano" %}
-
-
 {% endtab %}
 
 {% endtabs %}

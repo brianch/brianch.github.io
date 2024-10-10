@@ -16,13 +16,20 @@ images:
 
 # Paisagens urbanas
 
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/arte/paisagem/014-parque.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Mulher descança em um banco do parque municipal de Franco da Rocha - SP. Caneta sobre papel." %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/arte/paisagem/020-milk-moo-ok.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Milk Moo no Shopping Bourbon na Pompéia - SP. Caneta sobre papel." %}
+    </div>
+</div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/arte/paisagem/010-catedral.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Catedral Sant'Ana de Botucatu. Desenho digital." %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/paisagem/scan07.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="EMEB Nilza Dias Mathias em Franco da Rocha. Caneta em papel." %}
+        {% include figure.liquid loading="eager" path="assets/img/arte/paisagem/scan07.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="EMEB Nilza Dias Mathias em Franco da Rocha. Caneta sobre papel." %}
     </div>
 </div>
 <div class="row mt-3">
@@ -82,7 +89,7 @@ images:
 
 ## Desenho de reportagem
 
-Artes feitas no local retratando algum evento ou acontecimento.
+Relatos sobre eventos ou acontecimentos a partir de desenhos feitos primariamente através da observação direta no local, acompanhados ou não por textos.
 
 <br>
 
