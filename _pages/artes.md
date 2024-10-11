@@ -26,26 +26,26 @@ images:
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/paisagem/010-catedral.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Catedral Sant'Ana de Botucatu. Desenho digital." %}
+        {% include figure.liquid path="assets/img/arte/paisagem/010-catedral.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Catedral Sant'Ana de Botucatu. Desenho digital." %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/paisagem/scan07.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="EMEB Nilza Dias Mathias em Franco da Rocha. Caneta sobre papel." %}
+        {% include figure.liquid path="assets/img/arte/paisagem/scan07.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="EMEB Nilza Dias Mathias em Franco da Rocha. Caneta sobre papel." %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/paisagem/scan01.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="Vila São Benedito - Franco da Rocha. Caneta sobre papel." %}
+        {% include figure.liquid path="assets/img/arte/paisagem/scan01.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="Vila São Benedito - Franco da Rocha. Caneta sobre papel." %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/paisagem/scan04.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="Vila Bazu - Franco da Rocha. Caneta sobre papel." %}
+        {% include figure.liquid path="assets/img/arte/paisagem/scan04.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="Vila Bazu - Franco da Rocha. Caneta sobre papel." %}
     </div>
   </div>
   <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/paisagem/scan02.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="Subida da Vila São benedito - Franco da Rocha. Caneta sobre papel." %}
+        {% include figure.liquid path="assets/img/arte/paisagem/scan02.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="Subida da Vila São benedito - Franco da Rocha. Caneta sobre papel." %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/paisagem/scan06.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="Vista do ponto de ônibus em frente à EMEB Nilza Dias Mathias - Franco da Rocha. Caneta sobre papel." %}
+        {% include figure.liquid path="assets/img/arte/paisagem/scan06.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="Vista do ponto de ônibus em frente à EMEB Nilza Dias Mathias - Franco da Rocha. Caneta sobre papel." %}
     </div>
 </div>
 
@@ -59,23 +59,23 @@ images:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/retratos/ju.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/arte/retratos/ju.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/retratos/lei.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/retratos/filtness.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/retratos/zago-Gb.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/arte/retratos/lei.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/retratos/king.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/arte/retratos/filtness.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/arte/retratos/zago-Gb.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/arte/retratos/king.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
     </div>
@@ -99,10 +99,10 @@ Evento realizado em Franco da Rocha pelo coletivo ["Baciada das Mulheres do Juqu
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/reportage/blog0004-mulheres.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/arte/reportage/blog0004-mulheres.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/reportage/blog0006-mulheresc.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/arte/reportage/blog0006-mulheresc.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -114,10 +114,10 @@ O "Fábrica de Óperas" é um projeto de extensão do Instituto de Artes da Unes
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/reportage/opera1s01.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/arte/reportage/opera1s01.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/reportage/opera1s02.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/arte/reportage/opera1s02.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -129,10 +129,10 @@ Protesto de alunos em apoio à greve dos servidores da Unesp. Mais informações
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/reportage/red-01.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/arte/reportage/red-01.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/reportage/red-02c.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/arte/reportage/red-02c.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -149,18 +149,18 @@ Ultimamente tenho me divertido bastante desenhando cenas de séries e filmes, em
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/tv/004-cdrama1-r.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Cena do c-drama 'Find Yourself'" %}
+        {% include figure.liquid path="assets/img/arte/tv/004-cdrama1-r.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Cena do c-drama 'Find Yourself'" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/tv/004-cdrama2-r.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Cena do c-drama 'Find Yourself'" %}
+        {% include figure.liquid path="assets/img/arte/tv/004-cdrama2-r.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Cena do c-drama 'Find Yourself'" %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/tv/drama3.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Cena do k-drama 'Beleza Verdadeira'" %}
+        {% include figure.liquid path="assets/img/arte/tv/drama3.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Cena do k-drama 'Beleza Verdadeira'" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arte/tv/drama4.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Cena do k-drama 'Alquimia das Almas'" %}
+        {% include figure.liquid path="assets/img/arte/tv/drama4.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Cena do k-drama 'Alquimia das Almas'" %}
     </div>
 </div>
 

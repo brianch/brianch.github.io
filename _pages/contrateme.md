@@ -98,7 +98,7 @@ Para saber mais dos projetos em que trabalhei, veja a página [Open Source](/rep
 
 Caso tenha algum projeto de software e precise de um desenvolvedor freelancer, fique à vontade para entrar em contato.
 
-{% include figure.liquid loading="eager" path="assets/img/dev/ocp.gif" class="img-fluid rounded z-depth-1" zoomable=true caption="Projeto Offline Chess Puzzles" %}
+{% include figure.liquid path="assets/img/dev/ocp.gif" class="img-fluid rounded z-depth-1" zoomable=true caption="Projeto Offline Chess Puzzles" %}
 
 <br>
 
