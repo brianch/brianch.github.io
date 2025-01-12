@@ -37,7 +37,7 @@ images:
         {% include figure.liquid path="assets/img/arte/paisagem/scan01.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="Vila São Benedito - Franco da Rocha. Caneta sobre papel." %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/arte/paisagem/scan04.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="Vila Bazu - Franco da Rocha. Caneta sobre papel." %}
+        {% include figure.liquid path="assets/img/arte/paisagem/centro-linguas-01.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="Centro de Línguas da prefeitura de Franco da Rocha. Caneta sobre papel." %}
     </div>
   </div>
   <div class="row mt-3">
@@ -140,9 +140,9 @@ Protesto de alunos em apoio à greve dos servidores da Unesp. Mais informações
 
 {% endtab %}
 
-{% tab artes tv %}
+{% tab artes Fanart %}
 
-### TV
+### Fanart
 
 Ultimamente tenho me divertido bastante desenhando cenas de séries e filmes, em especial de c-dramas e k-dramas.
 <br><br>

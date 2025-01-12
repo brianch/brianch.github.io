@@ -6,7 +6,12 @@
     - name: Nascimento
       value: 1991
     - name: Idiomas
-      value: Português, Inglês, Espanhol
+      value:
+        <li>Português (Nativo)</li>
+        <li>Inglês (Avançado)</li>
+        <li>Espanhol (Intermediário)</li>
+        <li>Russo (Básico)</li>
+
 
 - title: Educação
   type: time_table
@@ -35,7 +40,7 @@
       institution: Programa de extensão universitária Rede Unespiano
       year: 2022 - 2023
 
-    - title: Oficina de Desenho de Observação
+    - title: Professor (Oficina de Desenho de Observação)
       institution: Prefeitura de Franco da Rocha
       year: 2020 - 2022
 
